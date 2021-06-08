@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetAnswer</string>
+    <string name="main_text">Введи вопрос и получи ответ от опытных сталкеров, если повезет...</string>
+    <string name="question"> </string>
+    <string name="button">Ответ</string>
+    <string name="sound">включи звук!</string>
+</resources>
